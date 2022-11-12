@@ -1,0 +1,11 @@
+{
+  "files.associations": {
+    "dirent.h": "c",
+    "ctype.h": "c",
+    "mman.h": "c",
+    "inttypes.h": "c",
+    "stdbool.h": "c",
+    "type_traits": "c",
+    "string.h": "c"
+  }
+}

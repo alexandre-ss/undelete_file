@@ -1,0 +1,3 @@
+para compilar:
+
+sudo make
