@@ -1,3 +1,3 @@
-* Projeto criado durante a disciplina de Sistemas Operacionais no semestre 2021.2
+# Undelete file on FAT32 file system
 
-O objetivo deste é recuperar arquivos perdidos em um disco com formato FAT32.
+Repo created to store undelete file algorithm created during Operational Systems subject
